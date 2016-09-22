@@ -1,0 +1,6 @@
+2016-07-19 10:26:18 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2016-07-19 10:41:29 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "database"
+
+2016-07-19 10:41:46 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "database"
+
